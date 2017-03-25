@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MeuPrimeiroApp.MyPage">
+	<ScrollView>
+		<Editor Text="Aqui é Body Builder Ipsum PORRA! Eita porra!, tá saindo da jaula o monstro! Bora caralho, você quer ver essa porra velho. Ele tá olhando pra gente. Birl! Ó o homem ali porra!, é 13 porra! É verão o ano todo vem cumpadi.&#xA;&#xA;Ele tá olhando pra gente. Vo derrubar tudo essas árvore do parque ibirapuera. Birl! Vai subir árvore é o caralho porra! É esse que a gente quer, é ele que nóis vamo buscar. Ó o homem ali porra!, é 13 porra!&#xA;&#xA;Negativa Bambam negativa. Aqui nóis constrói fibra, não é água com músculo. Sai filho da puta! Bora caralho, você quer ver essa porra velho. Aqui é bodybuilder porra! AHHHHHHHHHHHHHHHHHHHHHH..., porra!&#xA;&#xA;Aqui nóis constrói fibra, não é água com músculo. Eu quero esse 13 daqui a pouquinho aí. Negativa Bambam negativa. Vo derrubar tudo essas árvore do parque ibirapuera. Vem porra! É nóis caraio é trapezera buscando caraio!&#xA;&#xA;Vamo monstro! Vo derrubar tudo essas árvore do parque ibirapuera. Tá comigo porra. Não vai dá não. Que não vai dá rapaiz, não vai dá essa porra. É verão o ano todo vem cumpadi.">
+		</Editor>
+	</ScrollView>
+</ContentPage>
